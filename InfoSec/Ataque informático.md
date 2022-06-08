@@ -1,0 +1,4 @@
+---
+alias: [Ataque]
+tags:  [concepto]
+---

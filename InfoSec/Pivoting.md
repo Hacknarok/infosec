@@ -1,0 +1,6 @@
+---
+aliases: [Movimiento lateral]
+---
+
+#concepto
+

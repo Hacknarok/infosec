@@ -1,0 +1,8 @@
+---
+aliases: [Pipeado, Pipear]
+---
+
+#concepto 
+
+***
+

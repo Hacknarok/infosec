@@ -1,0 +1,6 @@
+---
+aliases: [Aplicaciones Espía]
+---
+
+#concepto 
+
