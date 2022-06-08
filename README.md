@@ -78,14 +78,14 @@ Teniendo en cuenta lo mencionado sobre [Obsidian][obsidian], siempre vas a poder
 1. Descargar [Obsidian][obsidian].
 2. Clonar este repositorio.
 3. Arrancar [Obsidian][obsidian] y seleccionar "Abrir carpeta como bóveda".
-4. Seleccionar la carpeta *[InfoSec](https://github.com/Hacknarok/infosec/InfoSec)* del repositorio.
+4. Seleccionar la carpeta *[InfoSec](https://github.com/Hacknarok/infosec/tree/master/InfoSec)* del repositorio.
 
 Esto permite el acceso al "material" de la bóveda y su sincronización.
 
 
 ### Configuración de la bóveda
 
-1. Copiar la carpeta `recursos/.obsidian` dentro de la bóveda (*[InfoSec](https://github.com/Hacknarok/infosec/InfoSec)*).
+1. Copiar la carpeta `recursos/.obsidian` dentro de la bóveda (*[InfoSec](https://github.com/Hacknarok/infosec/tree/master/InfoSec)*).
 
 Esto permite activar los plugins, los colores y el workspace estándar que he dejado preparados.
 
