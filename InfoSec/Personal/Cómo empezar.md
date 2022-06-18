@@ -2,6 +2,8 @@
 tags: [aprendizaje]
 ---
 
+> [!IMPORTANT] Extraído del [[Trabajo como Pentester|curso de Metasploit de FGUMA]].
+
 # Según [[David Santo Orcero]]
 ![[David Santo Orcero#^65743a]]
 

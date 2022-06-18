@@ -5,7 +5,6 @@
 # Introducción
 > [!INFO] Definición
 > Conjunto de técnicas manipuladorasy de engaño empleadas para extraer información de un usuario de un sistema.
-
 ^aea744
 
 # Algunas técnicas que funcionan

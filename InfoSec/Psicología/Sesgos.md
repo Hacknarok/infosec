@@ -1,8 +1,7 @@
 ---
 tags: [psicología]
+source: [https://es.wikipedia.org/wiki/Sesgo]
 ---
-
-Fuente Global: [Wikipedia](https://es.wikipedia.org/wiki/Sesgo)
 
 # Introducción
 > [!INFO] Definición
